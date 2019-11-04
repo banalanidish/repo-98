@@ -1,0 +1,8 @@
+<project name="hello" default="test2" >
+<target name="test1">
+<echo>hello from test1 target</echo>
+</target>
+<target name="test2">
+<echo>hello from test2 target</echo>
+</target>
+</project>
